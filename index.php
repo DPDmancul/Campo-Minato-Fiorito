@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
 <!--
-Created by DPD- (Davide Peressoni) in 2016
-Released under GNU/GPL 2 LICENSE (https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
-Fork me on:
+	Created by DPD- (Davide Peressoni) in 2016
+	Released under GNU/GPL 2 LICENSE (https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
+	Fork me on: https://github.com/DPDmancul/Campo-Minato-Fiorito
 -->
 	<head>
 		<title>Campo fiorito minato</title>
@@ -20,7 +20,7 @@ Fork me on:
 		</style>
 	</head>
 	<body>
-		<a class="github-fork-ribbon" href="https://github.com/DPDmancul/Campo-Minato-Fiorito" title="Fork me on GitHub">Fork me on GitHub</a>
+		<a class="github-fork-ribbon" target="_blank" href="https://github.com/DPDmancul/Campo-Minato-Fiorito" title="Fork me on GitHub">Fork me on GitHub</a>
 		<h1>Campo fiori e bombe</h1>
 		<?php
 		define('BOMBA', '10');
